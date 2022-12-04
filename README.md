@@ -30,6 +30,7 @@ Fedora 35 requires the following step too:
 =================================================
 
 pip3 install unidecode
+pip3 install setproctitle
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
